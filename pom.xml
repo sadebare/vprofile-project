@@ -8,7 +8,7 @@
     <name>Visualpathit VProfile Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
-        <spring.version>4.2.0.RELEASE</spring.version>
+        <spring.version>7.1.0</spring.version>
         <spring-security.version>4.0.2.RELEASE</spring-security.version>
         <spring-data-jpa.version>1.8.2.RELEASE</spring-data-jpa.version>
         <hibernate.version>4.3.11.Final</hibernate.version>
@@ -98,7 +98,7 @@
 	<dependency>
 	     <groupId>org.springframework</groupId>
 	     <artifactId>spring-test</artifactId>
-	     <version>3.2.3.RELEASE</version>
+	     <version>7.1.0</version>
 	     <scope>test</scope>
 	</dependency>
 	<dependency>
